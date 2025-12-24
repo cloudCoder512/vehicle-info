@@ -61,7 +61,7 @@ pip install -r requirements.txt
 
 <h3>3️⃣ Run the Application</h3>
 <pre>
-python main.py
+python vehicle-info.py
 </pre>
 
 ---
@@ -69,8 +69,8 @@ python main.py
 <h2>📂 Project Structure</h2>
 <pre>
 vehicle-info-tool/
-│── main.py
-│── gui.py
+│── vehicle-info.py
+│── Row-Data.py
 │── requirements.txt
 │── README.md
 │── assets/
