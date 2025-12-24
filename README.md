@@ -50,7 +50,7 @@ Ye project beginners aur Python GUI learners ke liye best hai.
 
 <h3>1️⃣ Clone the Repository</h3>
 <pre>
-git clone https://github.com/your-username/vehicle-info-tool.git
+git clone https://github.com/cloudCoder512/vehicle-info.git
 cd vehicle-info-tool
 </pre>
 
