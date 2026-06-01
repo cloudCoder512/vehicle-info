@@ -117,7 +117,7 @@ This project is licensed under the <b>MIT License</b>.
 <h2>👨‍💻 Author</h2>
 <p>
 <b>Your Name</b><br>
-GitHub: <a href="https://github.com/your-username">your-username</a>
+GitHub: <a href="https://github.com/cloudCoder512">cloudCoder512</a>
 </p>
 
 <hr>
